@@ -3,13 +3,19 @@ A sleek blockchain landing page with gradient pastel tones, bold pixelated headl
 ---
 
 ## ✨ Features
-- **Hero Section**: Glitch + typewriter headline, animated subtext, glowing CTA button.
-- **Smooth Scroll Animations**: Sections reveal with fade-up, slide-in, and zoom effects.
-- **Features Section**: Flipping cards with 3D rotation and neon glow borders.
-- **Why Blockchain**: Hacker-style icons with scroll-triggered animations and code rain background.
-- **Use Cases**: Grid layout with animated cards (Finance, Supply Chain, Identity Security).
-- **Call-to-Action**: Terminal-style input box with animated text cursor.
-- **Footer**: Contact info + social icons with bounce/glow hover effects.
+Hero Section: Glitch + typewriter headline, animated subtext, glowing CTA button.
+
+Smooth Scroll Animations: Sections reveal with fade-up, slide-in, and zoom effects.
+
+Features Section: Flipping cards with 3D rotation and neon glow borders.
+
+Why Blockchain: Clean gradient pastel background (instead of hacker/code rain), paired with scroll-triggered animations and minimal futuristic icons.
+
+Use Cases: Grid layout with animated cards (Finance, Supply Chain, Identity Security).
+
+Call-to-Action: Terminal-style input box with animated text cursor.
+
+Footer: Contact info + social icons with bounce/glow hover effects.
 
 ---
 
