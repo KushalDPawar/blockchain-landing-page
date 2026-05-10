@@ -1,9 +1,5 @@
 # Blockchain Landing Page 🔐⚡
-
-A responsive landing page built with a **hacker-inspired blockchain aesthetic**.  
-Designed in dark mode with neon green and purple accents, futuristic monospace fonts, and subtle matrix-style background effects.  
-This project demonstrates smooth scroll animations, parallax visuals, and interactive UI elements inspired by modern showcase sites.
-
+A sleek blockchain landing page with gradient pastel tones, bold pixelated headline, and clear focus on decentralization, security, transparency, and immutability, inviting users to initialize protoco
 ---
 
 ## ✨ Features
